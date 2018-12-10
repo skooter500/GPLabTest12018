@@ -2,7 +2,7 @@
 
 This is video of the sketch you will be making today:
 
-[![YouTube](http://img.youtube.com/vi/dycHQFEz8VI/0.jpg)](http://www.youtube.com/watch?v=dycHQFEz8VI)
+[![YouTube](http://img.youtube.com/vi/ATu4TvyT5hk/0.jpg)](http://www.youtube.com/watch?v=ATu4TvyT5hk)
 
 What is happening:
 
@@ -10,7 +10,7 @@ There are three screens you need to program.
 
 - The first screen is drawn with rects. You should use a loop in your solution to this part. 
 - The second screen is drawn with triangles. You should use a loop in your solution to this part. 
-- In the third screen, there are 10 circles. They start at a random x position and use a random colour. The circles move from left to right. When a circle gets to the right side of the window, it starts back at the left side of the screen. You should use loops and arrays in your solution to this part.
+- In the third screen, there are 10 circles. They start at a random x position and use a random colour. The circles move from left to right. When a circle gets to the right side of the screen, it starts back at the left side of the screen. You should use loops and arrays in your solution to this part.
 - Pressing the SPACE key should switch betwen the three screens
 
 Start with blank Processing sketch and name it D1234567_Whatever_Your_Name_Is. Replace D1234567 with your student number and Whatever_Your_Name_Is with your name. 
